@@ -3,16 +3,16 @@
 
 # ======================================================================================
 # Author: Noel Milton Vega
-# Organization: Dimension Data, LLC.
-# URL: http://www.didata.us
-# Twitter: @didata_us
+# Organization: PRISMALYTICS, LLC.
+# URL: http://www.prismalytics.io
+# Twitter: @prismalytics
 # ======================================================================================
 #
 # This is the companion code for the Dimension Data Insight article/tutorial entitled:
 #    Logistic Regression: Machine Learning for Binary Classification
 #
 # The atricle is available for reading here:
-#    http://didata.us/2014/06/11/logistic-regression-machine-learning/
+#    http://prismalytics.com/2011/07/27/logistic-regression-machine-learning/
 #
 
 #
